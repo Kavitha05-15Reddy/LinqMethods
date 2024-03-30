@@ -1,0 +1,14 @@
+C:\Users\Ramanjaneyareddy\source\repos\LinqMethods\LinqMethods\bin\Debug\net6.0\LinqMethods.exe
+C:\Users\Ramanjaneyareddy\source\repos\LinqMethods\LinqMethods\bin\Debug\net6.0\LinqMethods.deps.json
+C:\Users\Ramanjaneyareddy\source\repos\LinqMethods\LinqMethods\bin\Debug\net6.0\LinqMethods.runtimeconfig.json
+C:\Users\Ramanjaneyareddy\source\repos\LinqMethods\LinqMethods\bin\Debug\net6.0\LinqMethods.dll
+C:\Users\Ramanjaneyareddy\source\repos\LinqMethods\LinqMethods\bin\Debug\net6.0\LinqMethods.pdb
+C:\Users\Ramanjaneyareddy\source\repos\LinqMethods\LinqMethods\obj\Debug\net6.0\LinqMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ramanjaneyareddy\source\repos\LinqMethods\LinqMethods\obj\Debug\net6.0\LinqMethods.AssemblyInfoInputs.cache
+C:\Users\Ramanjaneyareddy\source\repos\LinqMethods\LinqMethods\obj\Debug\net6.0\LinqMethods.AssemblyInfo.cs
+C:\Users\Ramanjaneyareddy\source\repos\LinqMethods\LinqMethods\obj\Debug\net6.0\LinqMethods.csproj.CoreCompileInputs.cache
+C:\Users\Ramanjaneyareddy\source\repos\LinqMethods\LinqMethods\obj\Debug\net6.0\LinqMethods.dll
+C:\Users\Ramanjaneyareddy\source\repos\LinqMethods\LinqMethods\obj\Debug\net6.0\refint\LinqMethods.dll
+C:\Users\Ramanjaneyareddy\source\repos\LinqMethods\LinqMethods\obj\Debug\net6.0\LinqMethods.pdb
+C:\Users\Ramanjaneyareddy\source\repos\LinqMethods\LinqMethods\obj\Debug\net6.0\LinqMethods.genruntimeconfig.cache
+C:\Users\Ramanjaneyareddy\source\repos\LinqMethods\LinqMethods\obj\Debug\net6.0\ref\LinqMethods.dll
